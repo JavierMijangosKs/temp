@@ -1,0 +1,29 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #c9cacb;
+  height: 57px;
+}
+
+.title {
+  margin: 0;
+}
+
+.strip {
+  background-color: white;
+  margin: 24px 0;
+  padding: 18px;
+  border-bottom: 1px solid #c9cacb;
+}
+
+.welcomeTitle,
+.nameTitle {
+  margin: 0 !important;
+  color: #265183 !important;
+}
+
+.nameTitle a {
+  color: #265183;
+}

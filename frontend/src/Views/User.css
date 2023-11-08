@@ -1,0 +1,25 @@
+.userView {
+  padding: 24px;
+}
+
+.userView a h4 {
+  margin-top: 0;
+  color: gray;
+  width: fit-content;
+}
+
+.userView a {
+  display: contents;
+  text-decoration: none;
+  width: fit-content;
+}
+
+.userInfoContainer {
+  background-color: white;
+  padding: 24px;
+  box-shadow: 0px 3px 10px 0px #1e326b33;
+}
+
+.userInfoContainer > h1 {
+  margin-top: 0;
+}

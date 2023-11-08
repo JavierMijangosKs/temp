@@ -1,0 +1,40 @@
+.emptyDetails {
+  text-align: center;
+}
+
+.emptyDetails > h2 {
+  color: lightgray;
+}
+
+.detailContainer {
+  background-color: white;
+  padding: 24px;
+  box-shadow: 0px 3px 10px 0px #1e326b33;
+}
+
+.postImg {
+  max-width: 100%;
+  margin: 24px 0;
+}
+
+.postTitleContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.postTitleContainer > h1 {
+  max-width: 50%;
+}
+
+.description {
+  margin-top: 0;
+  margin-bottom: 24px !important;
+}
+
+.rateContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}

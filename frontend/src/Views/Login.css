@@ -1,0 +1,24 @@
+.logInRow {
+  min-height: 100vh;
+}
+
+.rigthBtnContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ant-card-head {
+  background-color: #ebf4f7 !important;
+}
+
+.ant-card-bordered {
+  border-color: #5d96aa;
+}
+
+.ant-btn-primary {
+  background-color: #265183 !important;
+}
+
+.ant-btn-primary:hover {
+  background-color: #5d96aa !important;
+}

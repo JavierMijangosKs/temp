@@ -1,0 +1,11 @@
+.listContainer {
+  background-color: white;
+  padding: 12px;
+  margin: 0 0 24px 12px;
+}
+
+.listHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
